@@ -1,0 +1,165 @@
+
+.e1_2 { 
+	background-color:rgba(3.1078076362609863, 15.228294655680656, 124.31250303983688, 0.20000000298023224);
+	width:393px;
+	height:854px;
+	position:absolute;
+}
+.e1_5 { 
+	width:393px;
+	height:853px;
+	position:absolute;
+	left:0px;
+	top:0px;
+	background-image:url(images/ajudaki_2.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+	margin: auto;
+}
+.e1_6 { 
+	width: 391px;
+	height: 698px;
+	position: absolute;
+	left: 0px;
+	top: 78px;
+	background-image: url(images/kisspng_incandescent_light_bulb_education_icon_life_vector_school_supplies_5aa0aeec120fb2_1.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	opacity: 0.4; /* Ajuste a opacidade conforme desejado, sendo 1 totalmente opaco e 0 totalmente transparente */
+	
+}
+.e1_9 { 
+	background-color:rgba(232.00000137090683, 230.00000149011612, 230.00000149011612, 1);
+	width:196px;
+	height:75px;
+	position:absolute;
+	left:98px;
+	top:444px;
+	border-radius:25px;
+}
+.e1_10 { 
+	background-color:rgba(232.00000137090683, 230.00000149011612, 230.00000149011612, 1);
+	width:196px;
+	height:74px;
+	position:absolute;
+	left:98px;
+	top:564px;
+	border-top-left-radius:25px;
+	border-top-right-radius:25px;
+	border-bottom-left-radius:25px;
+	border-bottom-right-radius:25px;
+}
+.e1_12 { 
+	color:rgba(41.00000135600567, 71.00000336766243, 102.00000151991844, 1);
+	width:295px;
+	height:86px;
+	position:absolute;
+	left:51px;
+	top:456px;
+	font-family:Inter;
+	text-align:center;
+	font-size:36px;
+	letter-spacing:0;
+}
+.e1_13 { 
+	color:rgba(41.22499868273735, 70.56464552879333, 102.00000151991844, 1);
+	width:196px;
+	height:61px;
+	position:absolute;
+	left:98px;
+	top:572px;
+	font-family:Inter;
+	text-align:center;
+	font-size:36px;
+	letter-spacing:0;
+}
+.e1_14 { 
+	background-color:rgba(231.62500709295273, 229.6948018670082, 229.6948018670082, 1);
+	width:393px;
+	height:59px;
+	position:absolute;
+	left:0px;
+	top:795px;
+}
+.e1_15 { 
+	width:45px;
+	height:49px;
+	position:absolute;
+	left:93px;
+	top:801px;
+	background-image:url(images/lupa_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e1_16 { 
+	width:47px;
+	height:46px;
+	position:absolute;
+	left:248px;
+	top:801px;
+	background-image:url(images/balao_de_fala_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e1_17 { 
+	width:58px;
+	height:54px;
+	position:absolute;
+	left:164px;
+	top:799px;
+	background-image:url(images/ajudando_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e1_18 { 
+	width:55px;
+	height:55px;
+	position:absolute;
+	left:318px;
+	top:28px;
+	background-image:url(images/perfil_de_usuario__1__1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e1_19 { 
+	width:55px;
+	height:55px;
+	position:absolute;
+	left:24px;
+	top:28px;
+	background-image:url(images/engrenagem_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e1_20 { 
+	width:50px;
+	height:49px;
+	position:absolute;
+	left:322px;
+	top:801px;
+	background-image:url(images/mapa_mental_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e1_21 { 
+	width:40px;
+	height:40px;
+	position:absolute;
+	left:22px;
+	top:806px;
+	background-image:url(images/casa_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e7_22 { 
+	color:rgba(255, 255, 255, 1);
+	width:348px;
+	height:176px;
+	position:absolute;
+	left:22px;
+	top:235px;
+	font-family:Inter;
+	text-align:center;
+	font-size:36px;
+	letter-spacing:0;
+}

@@ -4,11 +4,13 @@ import { BrowserModule } from '@angular/platform-browser';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { DarkthemeComponent } from './darktheme/darktheme.component';
+import { TelainicialComponent } from './telainicial/telainicial.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    DarkthemeComponent
+    DarkthemeComponent,
+    TelainicialComponent
   ],
   imports: [
     BrowserModule,
